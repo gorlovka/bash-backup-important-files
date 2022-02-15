@@ -1,0 +1,25 @@
+Android
+Desktop
+Documents
+Downloads
+Dropbox
+Postman
+Telegram
+Telegram Desktop
+Webcam
+aaa.jpg
+android-studio
+bash
+crontab
+delete_current_playing_song
+hdd
+istockphoto-1126184297-1024x1024.jpg
+jlk.jpg
+netbeans-12.4
+node_modules
+notes
+python
+snap
+stardict
+uone
+www
