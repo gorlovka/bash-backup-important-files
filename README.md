@@ -1,5 +1,6 @@
 # bash-backup-important-files
 Simple scripts for making backups of only necessary files from your provided list.
+Adapt to your needs.
 
 Syncing happens over SSH.
 
@@ -12,3 +13,7 @@ Usage:
 2. Set you paths
 3. Adapt list_files.txt for your needs. All routes are related to HOME directory.
 4. Run either bash backup_cold.sh  or bash backup_cold.sh
+
+
+Or
+bash backup_cold_full.sh to both disks
