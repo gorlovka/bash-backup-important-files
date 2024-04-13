@@ -1,3 +1,6 @@
+hdd/Dropbox
+Camera_uploads_fresh
+MEGAsync
 bash
 notes
 Documents
@@ -10,6 +13,4 @@ Postman
 python
 stardict
 delete_current_playing_song
-netbeans-12.4
 www
-hdd/Dropbox

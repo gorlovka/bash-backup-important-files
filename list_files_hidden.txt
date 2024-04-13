@@ -1,6 +1,5 @@
 .Skype
 .VirtualBox
-.adobe
 .android
 .appsecret
 .atom
@@ -9,8 +8,6 @@
 .bash_logout
 .cert
 .config
-.dropbox
-.dropbox-dist
 .env
 .gftp
 .gitconfig
@@ -41,7 +38,6 @@
 .react-native-cli
 .shutter
 .smartgit
-.spyder2
 .ssh
 .ssr
 .stardict
