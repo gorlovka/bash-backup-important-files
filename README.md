@@ -1,6 +1,8 @@
 # bash-backup-important-files
 Simple scripts for making backups of only necessary files from your provided list.
-Adapt to your needs.
+There are two kind of files which are to be backed up:
+Ones that need to be backed up often are in list_files_hidden.txt.
+Another ones which don't need often back up or too big for that are in list_files.txt
 
 Hot syncing happens over rsync using  SSH.
 Cold syncing over rsync using local filesystem.
