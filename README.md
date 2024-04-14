@@ -7,11 +7,11 @@ Another ones which don't need often back up or too big for that are in list_file
 Hot syncing happens over rsync using  SSH.
 Cold syncing over rsync using local filesystem.
 
-Hot backup - to be run from crontab on regular basis you prefer. 
+**Cold backup** - you insert sometimes the disk for syncing and then detach it from network altogether and keep it in the secret place. The file for this case is **backup_cold.sh**
 
-Cold backup - you insert sometimes the disk for syncing and then detach it from network altogether and keep it in the secret place.
+**Hot backup** - to be run from crontab on regular basis you prefer. The files responsible for this are **backup_hot_over_proxy.sh and backup_hot.sh**. As you might have guessed the one with _over_prefix ending is used to send back up data to machine which is behind NAT.  For machine which has public available IP **backup_hot.sh** is to be used.
 
-Usage:
+**Usage:**
 1. Do cp .env.example .env
 2. Set you paths
 3. Adapt list_files.txt for your needs. All routes are related to HOME directory.
