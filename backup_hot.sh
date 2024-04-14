@@ -13,7 +13,6 @@ HOT_DISK_FOLDER=$HOT_DISK/`date +%Y-%m-%d`
 
 SOURCE_FILE=$1
 
-
 cat $SOURCE_FILE | while read entity; do 
   FILENAME=$ROOT_FOLDER/$entity;
   echo $FILENAME 

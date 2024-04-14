@@ -1,3 +1,4 @@
 .env
 .idea
 .swp
+backup_hot_over_proxy.sh
