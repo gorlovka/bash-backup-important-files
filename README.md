@@ -1,4 +1,4 @@
-# bash-backup-important-files
+# Bash - Backup important files
 Simple scripts for making backups of only necessary files from your provided list.
 There are two kind of files which are to be backed up:
 Ones that need to be backed up often are in list_files_hidden.txt.
